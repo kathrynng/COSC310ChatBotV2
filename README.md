@@ -10,9 +10,8 @@ Dino-Bot can talk about few different things ( see instructions below ).
 Dino-Bot now has a better looking (still ancient?) GUI! Additionally, his database is now updated with more information as he has started going to school! Other than that, talking to him about things he might not know about will prompt you to ask him something else (in 5 new different ways!).
 
 ## How to use use our Dino-Bot:
-1. Run the command line interface of your preference (eg. command prompt).
-2. Redirect the directory to the location of the file.
-3. On the console, type: `java -jar dinobot.jar`
+1. Download dinoBot.jar
+2. Run dinoBot.jar
 
 When the main image has been loaded,  Dino-bot (Tee-Tee) will ask you to input your name to ensure we can use it when you chat.
 You may either input "help" if you want to know what can Dino-Bot can talking about or just jump right into your conversation.
